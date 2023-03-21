@@ -582,16 +582,19 @@ const Format = [
           "http://web.nitp.ac.in/uploads22/DRCC_Adjustment_SOP.pdf",
       },
       {
-        para:
-          "5-Procedure for issue of Demand Letter for Bank/DRCC student credit card loan.",
-        link: "http://web.nitp.ac.in/uploads20/demand_letter_sop.pdf",
+        para: "5-Application for Demand Letter.",
+        link: "http://web.nitp.ac.in/uploads23/Application%20for%20Demand%20Letter.pdf",
       },
       {
-        para: "6-Procedure for Educational verification of Students.",
-        link: "http://web.nitp.ac.in/uploads20/verification_sop.pdf",
+        para: "6-Application for Hostel & Mess Fee Receipt.",
+        link: "http://web.nitp.ac.in/uploads23/Application%20for%20Hostel%20&%20Mess%20Fee%20Receipt.pdf",
       },
       {
-        para: "7-SOP for Cancellation of Admission",
+        para: "7-SOP for Educational Verification of Students.",
+        link: "http://web.nitp.ac.in/uploads23/Educational%20Verification_SOP.pdf",
+      },
+      {
+        para: "8-SOP for Cancellation of Admission",
         link: "http://web.nitp.ac.in/uploads22/Application for Cancellation of Admission.pdf",
       },
     ],
@@ -1126,7 +1129,40 @@ const Convocation = [
 const Magazine = [
   {
     heading: "Magazine of NIT Patna",
-    title: "Magazine Vol. 4, (March 2022)",
+    title: "Special Edition: Institute Coffee-Table Booklet",
+    data: [
+      {
+        para:
+          "Click here to download (English Version)",
+        link: "http://web.nitp.ac.in/uploads23/Coffee-Table_NITP.pdf",
+      },
+    ],
+  },
+  {
+    heading: "Magazine of NIT Patna",
+    title: "Magazine Vol. 5 (Jan 2023)",
+    data: [
+      {
+        para:
+          "Click here to download (English Version)",
+        link: "https://drive.google.com/file/d/1FAhIZPthEMvSyceX5ASOAO-yI-BiTQ7Y/view?usp=share_link",
+      },
+    ],
+  },  
+  {
+    heading: "Magazine of NIT Patna",
+    title: "Special Edition: 5 Years Report",
+    data: [
+      {
+        para:
+          "Click here to download (English Version)",
+        link: "http://web.nitp.ac.in/uploads23/5_years_Report.pdf",
+      }
+    ],
+  },
+  {
+    heading: "Magazine of NIT Patna",
+    title: "Magazine Vol. 4 (March 2022)",
     data: [
       {
         para:
